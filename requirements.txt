@@ -4,6 +4,7 @@ snowflake-snowpark-python
 streamlit==1.31.1
 requests
 
-pip install
-import modin.pandas as pd
-import snowflake.snowpark.modin.plugin
+conda create -n conda python==3.10
+conda activate conda
+
+pip install snowflake -U
