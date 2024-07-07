@@ -4,4 +4,4 @@ snowflake-snowpark-python
 streamlit==1.31.1
 requests
 
-conda install snowflake-snowpark-python modin==0.28.1
+pip install
