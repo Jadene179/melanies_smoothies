@@ -8,4 +8,4 @@ snowflake-connector-python
 snowflake-snowpark-python
 pip==24.1.1
 
-import modin.pandas as pd
+pip install "snowflake-connector-python[pandas]"
